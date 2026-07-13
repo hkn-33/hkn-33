@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jakub%20Janik&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLM%20%26%20Agent%20Systems&descSize=20&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jakub%20Janik&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20%26%20Agent%20Systems&descSize=20&descAlignY=60" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jakub--janik.vercel.app-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://jakub-janik.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-janik--jakub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janik-jakub)
@@ -41,6 +41,17 @@ AI Engineer building **production systems powered by LLMs and AI agents** — fr
 
 ---
 
+## 🌐 Open Source on GitHub
+
+| Repo | Description | Tech |
+|---|---|---|
+| **[gpw-research-workshop](https://github.com/hkn-33/gpw-research-workshop)** | AI-agent equity research workshop for the Warsaw Stock Exchange — 4 masters' methodology (Buffett · Munger · Duan Yongping · Li Lu), multi-agent adversarial analysis, actionable buy/sell ranges | Python |
+| **[OZMO](https://github.com/hkn-33/OZMO)** | Company branch management application | JavaScript |
+| **[Unlimited-Translate-API](https://github.com/hkn-33/Unlimited-Translate-API)** | Free unlimited translation API | Python |
+| **[Typee](https://github.com/hkn-33/Typee)** | Typing practice web app | Vue |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -59,14 +70,13 @@ LLM Agents · RAG · Prompt Engineering · Computer Vision · GPU Pipelines
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hkn-33&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkn-33&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://ghchart.rshah.org/hkn-33" alt="Contribution graph" width="100%"/>
 
-<img src="https://streak-stats.demolab.com?user=hkn-33&theme=tokyonight&hide_border=true" height="165"/>
+**1000+ contributions in the last year** — mostly in private production repositories
 
 </div>
 

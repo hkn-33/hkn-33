@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jakub%20Janik&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20%26%20Agent%20Systems&descSize=20&descAlignY=60" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Jakub+Janik+%F0%9F%91%8B;AI+Engineer+%7C+LLM+%26+Agent+Systems;I+ship+production+AI+systems" alt="Jakub Janik — AI Engineer"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jakub--janik.vercel.app-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://jakub-janik.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-janik--jakub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janik-jakub)
@@ -74,7 +74,10 @@ LLM Agents · RAG · Prompt Engineering · Computer Vision · GPU Pipelines
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/hkn-33" alt="Contribution graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hkn-33/hkn-33/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/hkn-33/hkn-33/output/github-snake.svg" alt="Contribution snake" width="100%">
+</picture>
 
 **1000+ contributions in the last year** — mostly in private production repositories
 

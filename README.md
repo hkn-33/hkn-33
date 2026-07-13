@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Jakub+Janik+%F0%9F%91%8B;AI+Engineer+%7C+LLM+%26+Agent+Systems;I+ship+production+AI+systems" alt="Jakub Janik — AI Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Jakub+Janik+%F0%9F%91%8B;AI+Engineer+%7C+Full-Stack+Developer;I+ship+production+AI+systems" alt="Jakub Janik — AI Engineer | Full-Stack Developer"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jakub--janik.vercel.app-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://jakub-janik.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-janik--jakub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janik-jakub)
